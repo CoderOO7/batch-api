@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "async": "^3.2.5",
+    "axios": "^1.6.8",
+    "csv-parse": "^5.5.5",
+    "json-stringify-safe": "^5.0.1"
+  },
+  "name": "batch-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Yadav (CoderOO7)",
+  "license": "ISC",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderOO7/batch-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CoderOO7/batch-api/issues"
+  },
+  "homepage": "https://github.com/CoderOO7/batch-api#readme"
+}
