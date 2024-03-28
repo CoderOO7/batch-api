@@ -26,6 +26,6 @@ $ npm i
 And then run this command from root directory.
 #### `start script`
 ```bash
-$ nodejs index.js > debug.log
+$ node index.js > debug.log
 ```
 It logs your data in `debug.log` file and api's success response in `success.json` and errors in `error.json`
